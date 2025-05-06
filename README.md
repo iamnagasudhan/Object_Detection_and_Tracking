@@ -1,4 +1,4 @@
-# Yolov8-object-detection-and-tracking-region-wise
+# Object-detection-and-tracking
 Flask web app for real-time YOLOv8 object detection, tracking, region-wise counting, and speed estimation in videos. Includes Docker deployment and sample videos.
 
 
